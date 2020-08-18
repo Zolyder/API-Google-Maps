@@ -1,0 +1,6 @@
+[submodule "Owlish-backend"]
+	path = Owlish-backend
+	url = git@github.com:Zolyder/Owlish-backend.git
+[submodule "Owlish-frontend"]
+	path = Owlish-frontend
+	url = git@github.com:Zolyder/Owlish-frontend.git
