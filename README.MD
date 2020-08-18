@@ -13,6 +13,12 @@ Simple api about datils of customer with google maps.
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+## Update submodules (repositories backend and frontend)
+When you clone the repository, you also need to update submodules, with this command:
+```
+$ git submodule update --init --recursive
+```
+
 ## Backend
 ### General info
 Construccion of a litte API Rest, it details customers consuming Google Map's API.
@@ -28,7 +34,12 @@ Porject is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd Backend
+$ cd Owlish-backend
+```
+
+Create file .env from .env.example
+
+```
 $ npm install
 $ npm start
 ```
@@ -48,7 +59,12 @@ Show details of customers in front-end with cards, lists and geolocation.
 
 ### Setup
 ```
-$ cd Frontend
+$ cd Owlish-frontend
+```
+
+Create file .env from .env.example
+
+```
 $ npm install
 $ npm start
 ```
