@@ -1,6 +1,6 @@
-[submodule "Owlish-backend"]
-	path = Owlish-backend
-	url = git@github.com:Zolyder/Owlish-backend.git
-[submodule "Owlish-frontend"]
-	path = Owlish-frontend
-	url = git@github.com:Zolyder/Owlish-frontend.git
+[submodule "Backend-Google-Maps"]
+	path = Backend-Google-Maps
+	url = https://github.com/Zolyder/Backend-Google-Maps
+[submodule "Frontend-Google-Maps"]
+        path = Frontend-Google-Maps
+        url = https://github.com/Zolyder/Frontend-Google-Maps
